@@ -1,6 +1,8 @@
 How to reach me
 -
 - Discord: inaba_ack (If for any reason you need to reach me ASAP start your dm with "!" so it bypasses discord's do not disturb feature)
+- Github: Apario-0 (duh)
+- Leet Code: Inaba_Ack 
 <!---
 Apario-0/Apario-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
