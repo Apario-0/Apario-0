@@ -13,9 +13,9 @@ ABOUT ME
 -
 Currently a programmer for TI, I've been coding since late 2019 when I was bored one day and ever since then I just keep trying to improve my code. As of now im mostly doing commissions for TI but in the little spare time that I manage to have I like to play rhythm games (mostly vsrg's like Etterna and Quaver), Modded Terraria and im now starting to pick up drawing again.
 
-CURRECT AND FUTURE PROJECTS
+CURRENT AND FUTURE PROJECTS
 -
-Blender pluggins that make my life easier lol 
-
+- Blender pluggins that make my life easier lol 
+- Skining.INO 
 I made this account for school (lol)
 
