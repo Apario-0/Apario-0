@@ -1,13 +1,13 @@
-How to reach me
+How To Reach Me
 -
 - Discord: inaba_ack (If for any reason you need to reach me ASAP start your dm with "!" so it bypasses discord's do not disturb feature)
 - Github: Apario-0 (duh)
 - Leet Code: Inaba_Ack 
+- 
 <!---
 Apario-0/Apario-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I'll probably post something soon so stop asking for updates on projects
 
 ABOUT ME 
 -
@@ -15,7 +15,7 @@ Currently a programmer for TI, I've been coding since late 2019 when I was bored
 
 CURRENT AND FUTURE PROJECTS
 -
-- Blender pluggins that make my life easier lol 
-- Skining.INO 
+- Blender pluggins
+- SimpleManiaSkining.INO
 I made this account for school (lol)
 
