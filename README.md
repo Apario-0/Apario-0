@@ -17,7 +17,7 @@ CURRENT AND FUTURE PROJECTS
 - *CAD Development & 3D Modeling* - Mostly personal projects such as gates for firghting sticks 
 - *SimpleManiaSkining.Ino* - A simple skining program that is under development to help people make skins for Osu!Mania and hopefully when fully release for Etterna and Quaver as well.
   
-I made this account for school (so dont take anything I post here seriously)
+I made this account for school (so dont take anything I post here seriously of I even do)
 
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 
