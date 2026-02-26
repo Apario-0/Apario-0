@@ -14,7 +14,7 @@ How To Reach Me
 CURRENT AND FUTURE PROJECTS
 -
 - *Blender pluggins* - These are mostly for me since I like the make 3d models but I might post them soon
-- *CAD Development & 3D Modeling* - Mostly personal projects such as gates for firghting sticks 
+- *CAD Development & 3D Modeling* - Mostly personal projects such as gates for fighting sticks 
 - *SimpleManiaSkining.Ino* - A simple skining program that is under development to help people make skins for Osu!Mania and hopefully when fully release for Etterna and Quaver as well.
   
 I made this account for school (so dont take anything I post here seriously of I even do)
