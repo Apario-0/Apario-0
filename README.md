@@ -3,13 +3,13 @@
 
 ABOUT ME 
 -
-Currently a programmer for TI, I've been coding since late 2019 when I was bored one day and ever since then I just keep trying to improve my code. As of now im mostly doing commissions for TI but in the little spare time that I manage to have I like to play rhythm games (mostly vsrg's like Etterna and Quaver), Modded Terraria and im now starting to pick up drawing again.
+Soon to be a former programmer for TI, now im mostly just going to study cybersecurity and focust more on studies or whatever makes me the most money (lol). Since im longer going to do comission work or just work in general I mostly just spend my time playing vsrg's (Quaver, Etterna, and O!M), modded terraria and soon probably going to do blender related stuff (probably more plugins).
 
 How To Reach Me
 -
 - Discord: inaba_ack (If for any reason you need to reach me ASAP start your dm with "!" so it bypasses discord's do not disturb feature)
 - Github: Apario-0
-- Leet Code: Inaba_Ack
+- Leet Code: Inaba_Ack (abandon lmao)
   
 CURRENT AND FUTURE PROJECTS
 -
