@@ -3,7 +3,7 @@
 
 ABOUT ME 
 -
-Soon to be a former programmer for TI, now im mostly just going to study cybersecurity and focust more on studies or whatever makes me the most money (lol). Since im longer going to do comission work or just work in general I mostly just spend my time playing vsrg's (Quaver, Etterna, and O!M), modded terraria and soon probably going to do blender related stuff (probably more plugins).
+Soon to be a former programmer for TI, now im mostly just going to study cybersecurity and focust more on studies or whatever makes me the most money (lol). Since im nolonger going to do comission work or just work in general I mostly just spend my time playing vsrg's (Quaver, Etterna, and O!M), modded terraria and soon probably going to do blender related stuff (probably more plugins).
 
 How To Reach Me
 -
