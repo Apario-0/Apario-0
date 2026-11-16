@@ -3,7 +3,7 @@
 
 ABOUT ME 
 -
-Soon to be a former programmer for TI, now im mostly just going to study cybersecurity and focust more on studies or whatever makes me the most money (lol). Since im nolonger going to do comission work or just work in general I mostly just spend my time playing vsrg's (Quaver, Etterna, and O!M), modded terraria and soon probably going to do blender related stuff (probably more plugins).
+Current Lockheed Martin employee, now I'm mostly just studying cybersecurity and focusing more on studies or whatever makes me the most money (lol). Since im nolonger going to do commission work I mostly spend time on whatever I find most interesting for the day. As for hobbies I do are modded terraria runs and soon probably going to do blender related stuff (probably more plugins).
 
 How To Reach Me
 -
@@ -13,9 +13,9 @@ How To Reach Me
   
 CURRENT AND FUTURE PROJECTS
 -
-- *Blender pluggins* - These are mostly for me since I like the make 3d models but I might post them soon
-- *CAD Development & 3D Modeling* - Mostly personal projects such as gates for fighting sticks 
-- *SimpleManiaSkining.Ino* - A simple skining program that is under development to help people make skins for Osu!Mania and hopefully when fully release for Etterna and Quaver as well.
+- *Blender & Pluggins* - I mostly got back into doing this for fun so I wont be releasing many custom plugging nor updating but they will always remain open source 
+- *CAD Development & 3D Modeling* - Mostly personal projects such as gates for fighting sticks and other stuff for my collection of random stuff
+- *SimpleManiaSkinning.ino* - A simple skinning program under development to help people make skinning simpler for Osu!Mania along side other VSRG'S (mainly Quaver, Etterna, and Interlude)
   
 I made this account for school (so dont take anything I post here seriously if I even do)
 
